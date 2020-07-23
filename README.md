@@ -2,8 +2,7 @@
 <h3 align="center">A web development passionate about creating solutions to any kind of problem!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbacega" alt="devbacega" /> </p>
 
-- 👨‍💻 All of my projects are available at [In my Github!](In my Github!)
-
+- 👨‍💻 All of my projects are available at [In my Github!]
 - 📝 I regulary write articles on [https://www.linkedin.com/in/victor-bacega/](https://www.linkedin.com/in/victor-bacega/)
 
 - 💬 Ask me about **Anything! If I don't know, I'll go find the answer for you!**
