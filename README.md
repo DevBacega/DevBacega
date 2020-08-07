@@ -6,9 +6,9 @@
 
 - 🌱  I’m currently learning **React.JS, Node.JS, React Native and Typescript!**
 
-- 👨‍💻 All of my projects are available at [In my Github!]
+- 👨‍💻 All of my projects are available at [https://github.com/DevBacega/](In my GitHub)
 
-- 📝 I regulary write articles on [https://www.linkedin.com/in/victor-bacega/](https://www.linkedin.com/in/victor-bacega/)
+- 📝 I regulary write articles on [https://www.linkedin.com/in/victor-bacega/](Linkedin)
 
 - 💬 Ask me about **Anything! If I don't know, I'll go find the answer for you!**
 
