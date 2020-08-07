@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [In my Github](https://github.com/DevBacega/)
 
-- 📝 I regulary write articles on [https://www.linkedin.com/in/victor-bacega/](Linkedin)
+- 📝 I regulary write articles on [Linkedin](https://www.linkedin.com/in/victor-bacega/)
 
 - 💬 Ask me about **Anything! If I don't know, I'll go find the answer for you!**
 
